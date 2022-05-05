@@ -12,3 +12,12 @@ h1{
     box-shadow: inset -5px -5px 10px 0 rgb(87, 83, 83);
     border-radius: 30px;
 }
+h2{
+    font-weight: 300;
+}
+p{
+    font-weight: 300;
+}
+.card-title{
+    font-weight: 500;
+}
