@@ -1,5 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
 .banner-image {
     background-image: url(/assets/imgs/img.he.jpg);
     background-size: cover;
 }
-
+h1{
+    font-weight: 300;
+}
+.content{
+    background-color: black;
+    padding: 5px;
+    box-shadow: inset -5px -5px 10px 0 rgb(87, 83, 83);
+    border-radius: 30px;
+}
